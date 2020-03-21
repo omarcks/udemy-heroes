@@ -7,3 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Capitán Cavernicola
+* Scobi Doo
+* Atom
